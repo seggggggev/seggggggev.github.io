@@ -1,0 +1,23 @@
+.instrument-serif-regular {
+    font-family: "Instrument Serif", serif;
+    font-weight: 600;
+    font-style: normal;
+    text-transform: capitalize;
+    line-height: 30%;
+    letter-spacing: -1px;
+  }
+ 
+  body {
+    height: 100vh;
+    background: linear-gradient(to bottom, #09ff00, #b300ff);
+}
+
+img {
+    width: 500px;  
+    height: 500px;
+}
+
+ul {
+    font-family: "Instrument Serif", serif;
+  }
+
