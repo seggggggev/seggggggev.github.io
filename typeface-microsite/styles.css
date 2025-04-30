@@ -12,9 +12,7 @@
   letter-spacing: 5px;
 
   padding: 20px;
-}
 
-selector {
   cursor: url('cursor.png'), auto;
 }
 
@@ -26,13 +24,22 @@ selector {
   text-transform: uppercase;
   line-height: 400px;
   font-weight: normal;
+  text-align: center;
 
 }
 .disc {
   color: rgb(8, 0, 255);
   font-weight: 600;
-  font-size: 50px;
+  font-size: 250px;
   font-style: normal;
   text-transform: capitalize;
   line-height: -1; 
+  text-align: center;
+}
+
+.card {
+  transition: transform 0.3s ease;
+}
+.card:hover {
+  transform: translateY(-10px);
 }
