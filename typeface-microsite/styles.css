@@ -61,9 +61,9 @@ span {
 transition: 0.4s;
 }
 
-span {
+/*span {
   clip-path: polygon(0 0, 100% 0, 80% 100%, 20% 100%);
-}
+}*/
 
 
 
